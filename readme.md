@@ -118,6 +118,7 @@
 - [RevoGrid Charts](https://github.com/revolist/charts) - Interactive charts with a DOM-container API and a custom-element adapter example. Commercial with a 30-day trial.
 - [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Calendar and resource scheduling for the `<revo-grid>` custom element. Commercial with a 30-day trial.
 - [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed Preact UI components for reports and dashboards, including form controls, pickers, and dialogs.
+- [Upup](https://github.com/DevinoSolutions/upup) - File uploader for Preact with drag and drop, cloud drive imports, and direct uploads to S3-compatible storage.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
